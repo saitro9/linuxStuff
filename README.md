@@ -1,1 +1,1 @@
-# linuxStuffim a ride
+# linuxStuf
