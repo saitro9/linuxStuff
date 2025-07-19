@@ -1,1 +1,1 @@
-# linuxStuf
+# linuxStuff
